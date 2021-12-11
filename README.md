@@ -37,5 +37,10 @@ git commit -m "first commit"
 ```
 git add . && git commit -m "update Readme file"
 ```
+```buildoutcfg
+git remote add origin https://github.com/username/<reponame>.git 
+git branch -M main
+git push origin main
+```
 
-#for creating
+onliner update for readme
